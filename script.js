@@ -1,6 +1,6 @@
 let element = document.querySelector('.targetelement')
 
-let countTill = new Date("January 01 2024 00:00:01").getTime()
+let countTill = new Date("January 01 2025 00:00:01").getTime()
 
 setInterval(() => {
 
